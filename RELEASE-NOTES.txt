@@ -1,6 +1,7 @@
 1.30.0
 ------
 * [**] Adds editor support for theme defined colors and theme defined gradients on cover and button blocks.
+* [**] Reflect changes of slider in block settings immediately.
 
 1.29.0
 ------
